@@ -10,3 +10,7 @@ console.log(textTwo.match(/(?:lenta)(mente).*\1/gi)); // não guarda o valor cap
 console.log(textTwo.match(/(lenta)(mente)/gi));
 console.log(textTwo.match(/(lenta)(mente)?/gi));
 console.log(textTwo.replace(/(lenta)(mente)/gi, '$1'));
+
+
+const textThree = 'abcdefghijkll';
+console.log(textThree.match(/(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)(k)(l)\12/g));
