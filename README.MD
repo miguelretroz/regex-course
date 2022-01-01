@@ -2,6 +2,8 @@
 
 ## Regex basics | Cod3r
 
+Repositório de códigos realizados no Curso de fundamentos de Expressões Regulares (Regex)
+
 <div align="center">
   
   <a href = "https://github.com/MiguelRetroz"><img height="31px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
